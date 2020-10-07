@@ -8,7 +8,7 @@ function Contact(props) {
             <FadeIn>
                 <h1 className="subtopic">Contact Me</h1>
                 <h3><i className="fas fa-envelope"></i> Email  -   <a href="mailto:barber5702@hotmail.com">barber5702@hotmail.com</a></h3>
-                <h3><i className="fas fa-phone"></i> Telephone   -   <a role="button" className="btn btn-link" href="tel:+4478279679940"> (+44)7827-9679-940</a></h3>
+                <h3><i className="fas fa-phone"></i> Telephone   -   <a role="button" className="btn btn-link" href="tel:+447827967940"> (+44)7827-967-940</a></h3>
             </FadeIn>
             <Social />
         </div>
